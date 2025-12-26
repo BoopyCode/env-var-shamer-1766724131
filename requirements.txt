@@ -1,0 +1,2 @@
+# No dependencies - pure bash shame
+# Just make it executable: chmod +x env-shamer.sh
